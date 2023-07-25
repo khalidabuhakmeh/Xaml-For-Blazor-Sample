@@ -7,7 +7,7 @@ This has been tested in [JetBrains Rider](https://jetbrains.com/rider) on macOS 
 ## Points of Interest
 
 - Xaml Control for Counter: [XamlMadness/XCounter.xaml](XamlMadness/XCounter.xaml)
-  -[XamlMadness/XCounter.xaml.cs](XamlMadness/XCounter.xaml.cs)
+  - [XamlMadness/XCounter.xaml.cs](XamlMadness/XCounter.xaml.cs)
 - Counter ViewModel: [XamlMadness/Models/XCounterViewModel.cs](XamlMadness/Models/XCounterViewModel.cs)
 - Project entry using `MSBuild:Compile`: [XamlMadness/XamlMadness.csproj](XamlMadness/XamlMadness.csproj)
 - Control Usage in Razor: [XamlMadness/Pages/Counter.razor](XamlMadness/Pages/Counter.razor)
